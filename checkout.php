@@ -136,7 +136,7 @@ if(isset($_POST['order_btn'])){
          </div>
          <!-- <div class="inputBox">
             <span>state :</span>
-            <input type="text" name="state" required placeholder="e.g. maharashtra">
+            <input type="text" name="state" required placeholder="e.g. texas">
          </div> -->
          <div class="inputBox">
             <span>country :</span>
