@@ -36,6 +36,6 @@
 
    </div>
 
-   <p class="credit">copyright by <span>Group -14, IIT - JU </span> </p>
+   <p class="credit">copyright by <?php echo date('Y'); ?> <span>Group -14, IIT - JU </span> </p>
 
 </section>
