@@ -21,7 +21,7 @@
       <div class="box">
          <h3>contact info</h3>
          <p> <i class="fas fa-phone"></i> 017614983802 </p>
-         <p> <i class="fas fa-phone"></i> 01927085260 </p>
+         <p> <i class="fas fa-phone"></i> 019727085260 </p>
          <p> <i class="fas fa-envelope"></i> group18@gmail.com </p>
          <p> <i class="fas fa-map-marker-alt"></i> Jahangirnagar University, Dhaka </p>
       </div>
