@@ -124,7 +124,7 @@ if(isset($_POST['order_btn'])){
          </div>
          <div class="inputBox">
             <span>address line 01 :</span>
-            <input type="number" min="0" name="flat" required placeholder="e.g. flat no.">
+            <input type="number" min="0" name="flat" required placeholder="e.g. flat number.">
          </div>
          <div class="inputBox">
             <span>address line 01 :</span>
